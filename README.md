@@ -1,4 +1,3 @@
-# 2017 FRC AZ Kickoff Java Workshop
+# 2020 FRC AZ Kickoff Java Workshop
 
-This will have the resources mentioned at the pre-kickoff Java workshops.
-This should have the information mentioned by the end of Saturday, January 7.
+The presentation can be found here. https://docs.google.com/presentation/d/14gStbEvI5RS3MN_XefCPYM2_neD7-lVGT4VZqcGyGIk/edit
